@@ -1,1 +1,4 @@
-discord.py praw python-dotenv requests
+discord.py
+praw
+python-dotenv
+requests
